@@ -1,0 +1,25 @@
+Car_name,Car_price,Batter_cap,Drive_range,Power,Charge_time,transmission,Boot_space,Top_speed
+MG Comet EV,7.98  lakh,17.3,230,41.42,7 Hours,Automatic,,
+Tata Tiago EV,8.69 - 11.99  lakh,19.2,250,67.045,58 Min(10-80%),240 L (Liters),Automatic,
+Tata Tigor EV,12.49 - 13.75  lakh,26,315,73.75,7.5h,316 L (Liters),Automatic,
+MG ZS EV,23.38 - 27.40  lakh,50.3,461,174.33,8.5 to 9 Hours,Automatic,,
+BYD Atto 3,33.99 - 34.49  lakh,60.48,521,201.15,9.5-10 Hours,440L L (Liters),Automatic,
+Hyundai Kona Electric,23.84 - 24.03  lakh,39.2,452,134.1,6.16 Hours,Automatic,,
+Tata Nexon EV Max,16.49 - 19.54  lakh,40.5,453,141.04,15 Hours,350 L (Liters),Automatic,
+Mercedes-Benz EQS,1.59 - 2.4 lakh,17.3,230,41.42,7 Hours,Automatic,,
+Audi e-tron GT,1.7 cr,19.2,250,67.045,58 Min(10-80%),240 L (Liters),Automatic,
+BMW i4,73.90 - 77.50  lakh,26,315,73.75,7.5h,316 L (Liters),Automatic,
+BYD E6,29.15  lakh,50.3,461,174.33,8.5 to 9 Hours,Automatic,,
+Porsche Taycan,1.53 - 2.3 lakh,60.48,521,201.15,9.5-10 Hours,440L L (Liters),Automatic,
+Audi RS e-tron GT,1.9 cr,39.2,452,134.1,6.16 Hours,Automatic,,
+Strom Motors R3,4.50  lakh,40.5,453,141.04,15 Hours,350 L (Liters),Automatic,
+Tata Nexon EV Prime,14.49 - 17.19  lakh,71.7,415,93.87,1.5H,580 L (Liters),Automatic,
+Hyundai IONIQ 5,44.95  lakh,29.2,320,56.22,10.5 Hours,315 L (Liters),Automatic,
+Kia EV6,60.95 - 65.95  lakh,77.4,708,273.205,18 Min (0-80%),Automatic,,
+BMW iX,1.2 cr,200,398.5,321.84,7.25h(AC 0-100%),Automatic,71kWh,200kmph
+Mini Cooper SE,52.50  lakh,32.6,270,181.03,2.5 Hours,Automatic,,
+Audi e-tron,1.02 - 1.2 lakh,77.4,708,273.205,18 Min (0-80%),Automatic,,
+Citroen eC3,11.50 - 12.76  lakh,200,398.5,321.84,7.25h(AC 0-100%),Automatic,71kWh,200kmph
+Jaguar I-Pace,1.20 - 1.2 lakh,32.6,270,181.03,2.5 Hours,Automatic,,
+Pravaig DEFY,39.50  lakh,107.8,857,633.63,Automatic,210km/h,,210km/h
+Mercedes-Benz EQC,99.50  lakh,83.9,541.5,335.25,Automatic,190kmph,,190kmph
